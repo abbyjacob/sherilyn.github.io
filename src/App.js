@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route, HashRouter } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/about_me";
 import Contact from "./pages/contact";
@@ -13,7 +13,7 @@ import ScrollToTop from "./components/ScrollTop";
 function App() {
   return (
     <Box sx={{ maxHeight: "100%", maxWidth: "100%" }}>
-      <BrowserRouter>
+      <HashRouter>
         <ScrollToTop />
         <Routes>
           <Route path="/" element={<MainLayout />}>
@@ -30,7 +30,7 @@ function App() {
             <Route path="*" element={<div>Page Not Found</div>} />
           </Route>
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </Box>
   );
 }
