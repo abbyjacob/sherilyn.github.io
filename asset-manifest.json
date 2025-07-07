@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sherilyn.github.io/static/css/main.c9d0a80b.css",
-    "main.js": "/sherilyn.github.io/static/js/main.1a12c89a.js",
+    "main.js": "/sherilyn.github.io/static/js/main.9f34236f.js",
     "static/js/453.1407b060.chunk.js": "/sherilyn.github.io/static/js/453.1407b060.chunk.js",
     "static/media/mobile_video2.mp4": "/sherilyn.github.io/static/media/mobile_video2.00d49dcca86c41433198.mp4",
     "static/media/mobile_video1.mp4": "/sherilyn.github.io/static/media/mobile_video1.02c1e50c65c8a342dc42.mp4",
@@ -96,11 +96,11 @@
     "static/media/copyright.svg": "/sherilyn.github.io/static/media/copyright.bc80eb72471953d419cf6e6d82d8f199.svg",
     "static/media/orangestar.svg": "/sherilyn.github.io/static/media/orangestar.c9b74905aee95597c9fbb93b4e5cae23.svg",
     "main.c9d0a80b.css.map": "/sherilyn.github.io/static/css/main.c9d0a80b.css.map",
-    "main.1a12c89a.js.map": "/sherilyn.github.io/static/js/main.1a12c89a.js.map",
+    "main.9f34236f.js.map": "/sherilyn.github.io/static/js/main.9f34236f.js.map",
     "453.1407b060.chunk.js.map": "/sherilyn.github.io/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9d0a80b.css",
-    "static/js/main.1a12c89a.js"
+    "static/js/main.9f34236f.js"
   ]
 }
